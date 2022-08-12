@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "4th set of human remains found in Lake Mead - ABC News",
+    "description": "Human remains were found again at Lake Mead National Recreation Area, the country's largest reservoir, officials announced.",
+    "url": "https://abcnews.go.com/US/4th-set-human-remains-found-lake-mead/story?id=88075327",
+    "urlToImage": "https://s.abcnews.com/images/US/lake-mead-01-ap-iwb-220726_1658842284961_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-08-08T02:30:03Z",
+    "content": "Human remains were again found in Lake Mead, the country's largest reservoir that continues to shrink amid a decades-long drought, officials announced Sunday.\r\nAccording to the National Park Service,… [+1749 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Alex Rogers, Clare Foran, Ali Zaslav and Manu Raju, CNN",
+    "title": "Senate passes Democrats' sweeping health care and climate bill - CNN",
+    "description": "The Senate is continuing to work Sunday on a series of amendment votes but faced new drama early afternoon as Democrats look to pass their sweeping climate, health care and tax package.",
+    "url": "https://www.cnn.com/2022/08/07/politics/senate-democrats-climate-health-care-bill-vote/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220807112405-03-senate-vote-0806-super-tease.jpg",
+    "publishedAt": "2022-08-08T02:10:00Z",
+    "content": "(CNN)The Senate on Sunday afternoon passed Democrats' $750 billion health care, tax and climate bill, in a significant victory for President Joe Biden and his party. \r\nThe final, party-line vote was … [+9753 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": null,
+    "title": "Roger Earl Mosley, known for role on 'Magnum P.I.' dies at 83 after crash, family says - KABC-TV",
+    "description": "Actor Roger Earl Mosley, best known for his role in the hit show \"Magnum P.I.,\" has died at age 83, according to his family.",
+    "url": "https://abc7.com/roger-mosley-magnum-pi-celebrity-deaths-actor/12107827/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/12107579_mosley_obit_2.jpg?w=1600",
+    "publishedAt": "2022-08-08T02:02:46Z",
+    "content": "LOS ANGELES (KABC) -- Actor Roger Earl Mosley, best known for his role in the hit show \"Magnum P.I.,\" has died at age 83, according to his family.\r\nMosley played helicopter pilot Theodore \"T.C.\" Calv… [+1327 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Dakin Andone and Michelle Watson, CNN",
+    "title": "One of four Muslim men slain in potentially linked Albuquerque killings remembered as 'brilliant public servant' - CNN",
+    "description": "A 27-year-old Muslim man killed last week in Albuquerque, New Mexico, is being remembered as a \"brilliant public servant\" committed to \"improving conditions and inclusivity for disadvantaged minorities,\" according to the mayor of the city he worked for.",
+    "url": "https://www.cnn.com/2022/08/07/us/albuquerque-muslim-men-killings-sunday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220807133544-albuquerque-muslim-killings-split-super-tease.jpg",
+    "publishedAt": "2022-08-08T02:02:00Z",
+    "content": "(CNN)A 27-year-old Muslim man killed last week in Albuquerque, New Mexico, is being remembered as a \"brilliant public servant\" committed to \"improving conditions and inclusivity for disadvantaged min… [+6649 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Shira Rubin, Steve Hendrix, Hazem Balousha",
+    "title": "Israel, Gaza militants agree to cease-fire after deadly weekend kills at least 43 - The Washington Post",
+    "description": "Israel and Palestinian Islamic Jihad agreed to a cease-fire after a brutal weekend of violence killed at least 43 and injured more than 300 in Gaza and forced thousands of Israelis to hunker down in air-raid shelters.",
+    "url": "https://www.washingtonpost.com/world/2022/08/07/israel-gaza-jerusalem-rockets/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TND6ABAWFYI63OMYWKVWR5MENA.jpg&w=1440",
+    "publishedAt": "2022-08-08T01:43:33Z",
+    "content": "Comment on this story\r\nTEL AVIV Israel and militants in the Gaza Strip have agreed to a cease-fire after more than two days of airstrikes and rocket attacks that killed 43 people and injured more tha… [+7521 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "The Sinema-Manchin split that shaped Dems' deal - POLITICO",
+    "description": "The West Virginia centrist spent months with Chuck Schumer molding Democrats' party-line agenda. In the final hours, he had to accept several of his Arizona colleague's demands.",
+    "url": "https://www.politico.com/news/2022/08/07/sinema-manchin-anatomy-senate-deal-00050259",
+    "urlToImage": "https://static.politico.com/c9/64/06f482c040539da7280816b70339/congress-budget-17046.jpg",
+    "publishedAt": "2022-08-08T01:05:36Z",
+    "content": "Ultimately, Sinema took a scalpel to the corporate minimum tax and scuttled any changes to carried interest, which Manchin called particularly painful. Triangulating between them through all of it: S… [+7879 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Chris Welch",
+    "title": "LG's latest earbuds include head-tracking spatial audio - The Verge",
+    "description": "LG’s new Tone Free T90 earbuds offer Dolby Head Tracking for immersive spatial audio, and they also have redesigned drivers for improved bass. The company is also releasing a pair of fitness earbuds called the Tone Free Fit.",
+    "url": "https://www.theverge.com/2022/8/7/23295905/lg-tone-free-t90-tf8-announced-features",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Rsdf1ZyIGYnmWOg7r-hvBw4nvY4=/0x127:1868x1105/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23928666/LG.jpg",
+    "publishedAt": "2022-08-08T01:00:00Z",
+    "content": "The company is also adding a sporty option to the Tone Free lineup\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: LG\r\nLG is today announci… [+2295 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Simone McCarthy and CNN's Beijing bureau",
+    "title": "Covid lockdown strands 80,000 tourists in 'China's Hawaii' - CNN",
+    "description": "Around 80,000 tourists are stranded in the popular resort city of Sanya on China's tropical Hainan island after authorities announced lockdown measures to stem an outbreak of Covid-19.",
+    "url": "https://www.cnn.com/2022/08/06/china/sanya-covid-19-outbreak-stranded-tourists-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220806232448-02-china-sanya-covid-220806-restricted-super-tease.jpg",
+    "publishedAt": "2022-08-08T00:52:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Gaydos",
+    "title": "Twins' Rocco Baldelli rages after controversial call in loss to Blue Jays: 'I think it was pathetic' - Fox News",
+    "description": "Minnesota Twins manager Rocco Baldelli was furious with the umpires and replay officials after a close call at the plate went in the favor of the Toronto Blue Jays.",
+    "url": "https://www.foxnews.com/sports/twins-rocco-baldelli-rages-controversial-call-loss-blue-jays-think-was-pathetic",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Rocco-Baldelli.jpg",
+    "publishedAt": "2022-08-08T00:42:33Z",
+    "content": "Minnesota Twins manager Rocco Baldelli was raging following a controversial call during his teams game against the Toronto Blue Jays on Sunday.\r\nThe Twins and the Blue Jays, both in the middle of pla… [+3651 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Weizhen Tan",
+    "title": "BlackRock says the era of steady growth has ended — and it tells investors how to position for it - CNBC",
+    "description": "BlackRock named 3 investing mistakes to avoid — and what to do instead.",
+    "url": "https://www.cnbc.com/2022/08/08/blackrock-era-of-steady-growth-has-ended-but-heres-how-to-prepare.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106601157-15936905562020-07-02t100452z_745441080_rc2ykh95h4vt_rtrmadp_0_eu-blackrock-court.jpeg?v=1593690590&w=1920&h=1080",
+    "publishedAt": "2022-08-08T00:34:00Z",
+    "content": null
+    }
+    ]
+    }
