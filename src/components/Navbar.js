@@ -38,6 +38,7 @@ export default function Navbar() {
   };
 
   useEffect(() => {
+    // eslint-desable-next-line
     async function search() {
       let json = [];
 
@@ -385,7 +386,8 @@ export default function Navbar() {
                               key={ele.url}
                               className="flex space-x-3"
                               href={ele.url}
-                              target="_blank">
+                              target="_blank"
+                              rel="noreferrer">
                               <img
                                 src={ele.urlToImage}
                                 className="w-[10%]"

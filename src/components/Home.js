@@ -40,6 +40,7 @@ export default function Home(props) {
   };
 
   useEffect(() => {
+    // eslint-desable-next-line
     updateNews(page + 1);
     setPage(page + 1);
   }, []);

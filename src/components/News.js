@@ -51,9 +51,11 @@ export default function News(props) {
   };
 
   useEffect(() => {
+    // eslint-desable-next-line
     updateNews(0);
   }, []);
 
+  // eslint-desable-next-line
   useEffect(() => {}, [props.newsData]);
 
   return (
